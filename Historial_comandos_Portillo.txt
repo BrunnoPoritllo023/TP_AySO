@@ -1,38 +1,16 @@
-pwd
-exit
-ls
-pwd
-man ls
-exit
 ssh-keygen
-cat $HOME/.ssh/*.pub
-ssh-keygen
-cat $HOME/.ssh/*.pub
-id_rsa.pub
-ssh-ed25519
-.pub
-ss
-clip < ~/.ssh/id_ed25519.pub
-ls -al ~/.ssh
-exi
-exit
-ssh-keygen -t ed25519
-cat $HOME/.ssh/*.pub
 cd
 pwd
 ls -la
 cd .ssh
 ls -la
 cat id_rsa.pub
-cd
-git clone 
+cd 
 cd repogit
 git clone git@github.com:BrunnoPoritllo023/TP_AySO.git
-cd T
 cd TP_AySO/
 pwd
 ls -l
-ca mtab
 cat mtab
 cat/repogit/TP_AySO/mtab
 cat/TP_AySo/mtab
@@ -52,7 +30,6 @@ grep -p Sysfs /etc/mtab > datos_sys.txt
 man grep
 grep -i SYSFS /etc/mtab
 grep -i Sysfs /etc/mtab > datos_sys.txt
-man grep
 git add .
 git commit -m "feat: avance hasta punto 2"
 git push
@@ -60,7 +37,6 @@ exit
 cd ~/repogit/TP_AySO
 ls -l
 pwd
-cat/etc/mtab
 cat /etc/mtab
 grep SYSFS /etc/mtab
 grep home_url /etc/os-release
